@@ -1,0 +1,12 @@
+{
+  "name": "fetch-and-convert-m3u8-mp4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "DuyAnhV",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
